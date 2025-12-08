@@ -197,13 +197,7 @@ Naive Bayes with bag-of-words or TF-IDF often generalizes better for short headl
  <tr><td><code>Graphs & Visualization </code></td><td>Screenshots</td></tr>
 </table>
 
----
 
-<h2> Team Members </h2>
-<li> Cristina Insignares </li>
-<li> Gulmehak Dutta </li>
-<li> Iswarya Malayamaan </li>
-<li> Tiago Borges </li>
 
 
 
